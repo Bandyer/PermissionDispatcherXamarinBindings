@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+    <id>PermissionDispatcher.Annotation</id>
+    <version>4.6.0</version>
+    <title>PermissionDispatcher.Annotation</title>
+    <authors>Bandyer</authors>
+    <owners>Bandyer</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>bandyer,android,badoo,android-weak-handler,handler,xamarin</tags>
+    <license type="expression">Apache-2.0</license>
+    <copyright>Copyright © Bandyer</copyright>
+    <description>PermissionDispatcher's permissionDispatcher-annotation bindings for Xamarin</description>
+    <summary>PermissionDispatcher's permissionDispatcher-annotation bindings for Xamarin</summary>
+    <projectUrl>https://github.com/Bandyer/PermissionDispatcherXamarinBindings</projectUrl>
+    <dependencies>
+        <group targetFramework="MonoAndroid">
+        </group>
+    </dependencies>
+    </metadata>
+    <files>
+        <file src="./bin/Release/PermissionDispatcher.Annotation.*" target="lib/MonoAndroid" />
+    </files>
+</package>

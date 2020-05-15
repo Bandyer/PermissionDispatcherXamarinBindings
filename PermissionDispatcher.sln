@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermissionDispatcher", "PermissionDispatcher\PermissionDispatcher.csproj", "{577B881C-43A5-4A8E-9DBE-944B2017B1C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPermissionDispatcher", "DemoPermissionDispatcher\DemoPermissionDispatcher.csproj", "{C105E633-9F4C-446E-BCA7-B5CFEBCF6D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577B881C-43A5-4A8E-9DBE-944B2017B1C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577B881C-43A5-4A8E-9DBE-944B2017B1C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577B881C-43A5-4A8E-9DBE-944B2017B1C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577B881C-43A5-4A8E-9DBE-944B2017B1C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C105E633-9F4C-446E-BCA7-B5CFEBCF6D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C105E633-9F4C-446E-BCA7-B5CFEBCF6D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C105E633-9F4C-446E-BCA7-B5CFEBCF6D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C105E633-9F4C-446E-BCA7-B5CFEBCF6D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
